@@ -56,9 +56,3 @@ This project analyzes retail sales data using Microsoft Power BI to understand s
 Aspiring Data Analyst | Learning Power BI and Data Analytics
 
 
-
-
-
-
-
-`README.md` yache pdf de karun mala
